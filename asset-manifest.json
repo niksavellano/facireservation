@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/facireservation/public/index.html/static/css/main.b9fd09bc.chunk.css",
-    "main.js": "/facireservation/public/index.html/static/js/main.9b707c63.chunk.js",
-    "main.js.map": "/facireservation/public/index.html/static/js/main.9b707c63.chunk.js.map",
-    "runtime-main.js": "/facireservation/public/index.html/static/js/runtime-main.27698f03.js",
-    "runtime-main.js.map": "/facireservation/public/index.html/static/js/runtime-main.27698f03.js.map",
-    "static/css/2.12b5cb63.chunk.css": "/facireservation/public/index.html/static/css/2.12b5cb63.chunk.css",
-    "static/js/2.bcbaeb0a.chunk.js": "/facireservation/public/index.html/static/js/2.bcbaeb0a.chunk.js",
-    "static/js/2.bcbaeb0a.chunk.js.map": "/facireservation/public/index.html/static/js/2.bcbaeb0a.chunk.js.map",
-    "index.html": "/facireservation/public/index.html/index.html",
-    "precache-manifest.e1d8cc7d2659e4b46838690868d93c3f.js": "/facireservation/public/index.html/precache-manifest.e1d8cc7d2659e4b46838690868d93c3f.js",
-    "service-worker.js": "/facireservation/public/index.html/service-worker.js",
-    "static/css/2.12b5cb63.chunk.css.map": "/facireservation/public/index.html/static/css/2.12b5cb63.chunk.css.map",
-    "static/css/main.b9fd09bc.chunk.css.map": "/facireservation/public/index.html/static/css/main.b9fd09bc.chunk.css.map",
-    "static/js/2.bcbaeb0a.chunk.js.LICENSE.txt": "/facireservation/public/index.html/static/js/2.bcbaeb0a.chunk.js.LICENSE.txt",
-    "static/media/room1.jpg": "/facireservation/public/index.html/static/media/room1.db08f0a2.jpg",
-    "static/media/room2.jpg": "/facireservation/public/index.html/static/media/room2.cb7de112.jpg",
-    "static/media/room3.jpg": "/facireservation/public/index.html/static/media/room3.f704ee49.jpg",
-    "static/media/room4.jpg": "/facireservation/public/index.html/static/media/room4.a5529250.jpg",
-    "static/media/room5.jpg": "/facireservation/public/index.html/static/media/room5.13554e0c.jpg"
+    "main.css": "/facireservation/static/css/main.b9fd09bc.chunk.css",
+    "main.js": "/facireservation/static/js/main.f275088d.chunk.js",
+    "main.js.map": "/facireservation/static/js/main.f275088d.chunk.js.map",
+    "runtime-main.js": "/facireservation/static/js/runtime-main.dd7fd4b5.js",
+    "runtime-main.js.map": "/facireservation/static/js/runtime-main.dd7fd4b5.js.map",
+    "static/css/2.12b5cb63.chunk.css": "/facireservation/static/css/2.12b5cb63.chunk.css",
+    "static/js/2.1aa16639.chunk.js": "/facireservation/static/js/2.1aa16639.chunk.js",
+    "static/js/2.1aa16639.chunk.js.map": "/facireservation/static/js/2.1aa16639.chunk.js.map",
+    "index.html": "/facireservation/index.html",
+    "precache-manifest.864c36bc833cd7440e99a0cce9aa4408.js": "/facireservation/precache-manifest.864c36bc833cd7440e99a0cce9aa4408.js",
+    "service-worker.js": "/facireservation/service-worker.js",
+    "static/css/2.12b5cb63.chunk.css.map": "/facireservation/static/css/2.12b5cb63.chunk.css.map",
+    "static/css/main.b9fd09bc.chunk.css.map": "/facireservation/static/css/main.b9fd09bc.chunk.css.map",
+    "static/js/2.1aa16639.chunk.js.LICENSE.txt": "/facireservation/static/js/2.1aa16639.chunk.js.LICENSE.txt",
+    "static/media/room1.jpg": "/facireservation/static/media/room1.db08f0a2.jpg",
+    "static/media/room2.jpg": "/facireservation/static/media/room2.cb7de112.jpg",
+    "static/media/room3.jpg": "/facireservation/static/media/room3.f704ee49.jpg",
+    "static/media/room4.jpg": "/facireservation/static/media/room4.a5529250.jpg",
+    "static/media/room5.jpg": "/facireservation/static/media/room5.13554e0c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27698f03.js",
+    "static/js/runtime-main.dd7fd4b5.js",
     "static/css/2.12b5cb63.chunk.css",
-    "static/js/2.bcbaeb0a.chunk.js",
+    "static/js/2.1aa16639.chunk.js",
     "static/css/main.b9fd09bc.chunk.css",
-    "static/js/main.9b707c63.chunk.js"
+    "static/js/main.f275088d.chunk.js"
   ]
 }
