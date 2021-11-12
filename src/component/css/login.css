@@ -1,0 +1,82 @@
+body {
+  background-color: #eae7dc;
+}
+#firstName,
+#lastName {
+  width: 50%;
+}
+input {
+  margin: 5px;
+}
+.jumbotron {
+  background-color: #eae7dc;
+}
+.form-group1 {
+  display: flex;
+}
+.form-group2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 10px;
+}
+.heading {
+  display: flex;
+}
+#emailLogin,
+#passwordLogin {
+  width: 30%;
+  margin: 10px;
+}
+.btn,
+.btn2 {
+  background-color: #e98074;
+  color: white;
+  height: 50px;
+}
+#serve {
+  color: #e85a4f;
+}
+.heading2 {
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  width: 100%;
+  margin-right: 20px;
+}
+.btn2 {
+  margin: 10px;
+}
+ul {
+  width: 100%;
+}
+li:nth-child(5) {
+  text-align: right;
+  width: 100%;
+}
+main {
+  display: flex;
+  width: 90%;
+  flex-flow: column wrap;
+  justify-content: center;
+  height: 70vh;
+}
+.facility {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-around;
+  height: 30%;
+  margin: 10px;
+}
+
+@media screen and (max-width: 570px) {
+  li:nth-child(5) {
+    text-align: left;
+  }
+}
